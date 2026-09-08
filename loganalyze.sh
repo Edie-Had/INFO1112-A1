@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#added this comment
+
 loganalyze(){
 
 DIR="${1:-.}"
